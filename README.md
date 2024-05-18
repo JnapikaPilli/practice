@@ -1,3 +1,3 @@
 # Practice1
 
-practice makes all perfect
+practice makes all perfect except fools
